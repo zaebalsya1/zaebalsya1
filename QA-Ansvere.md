@@ -1,11 +1,11 @@
 <details>
-<summary>Разница приорити и северити</summary>
+<summary>1) Разница приорити и северити</summary>
 <br>
 Серьезность (Severity) - это атрибут, характеризующий влияние дефекта на работоспособность приложения. Приоритет (Priority) - это атрибут, указывающий на очередность выполнения задачи или устранения дефекта. Можно сказать, что это инструмент менеджера по планированию работ.
 </details>
 
 <details>
-<summary>Структура тест плана.</summary>
+<summary>2) Структура тест плана.</summary>
 <br>
 1. Що необхідно протестувати?
 
@@ -23,7 +23,7 @@
 </details>
 
 <details>
-<summary>Структура тест кейса</summary>
+<summary>3) Структура тест кейса</summary>
 <br>
 PreConditions	
 Test Case Description
@@ -31,7 +31,7 @@ PostConditions
 </details>
 
 <details>
-<summaryДизайн техники тестирования.</summary>
+<summary> 4) Дизайн техники тестирования.</summary>
 <br>
 Эквивалентное Разделение (Equivalence Partitioning - EP). Как пример, у вас есть диапазон допустимых значений от 1 до 10, вы должны выбрать одно верное значение внутри интервала, скажем, 5, и одно неверное значение вне интервала - 0.
 
@@ -45,13 +45,13 @@ PostConditions
 </details>
 
 <details>
-<summary>Типы тестирования.</summary>
+<summary>5) Типы тестирования.</summary>
 <br>
 http://www.protesting.ru/testing/testtypes.html
 </details>
 
 <details>
-<summary>Типы тестирования.</summary>
+<summary>6) Уровни Тестирования.</summary>
 <br>
 http://www.protesting.ru/testing/testlevels.html
 Уровни Тестирования Программного Обеспечения
@@ -62,5 +62,20 @@ http://www.protesting.ru/testing/testlevels.html
 Интеграционное тестирование (Integration Testing)
 Системное тестирование (System Testing)
 Приемочное тестирование (Acceptance Testing)**
+</details>
+
+<details>
+<summary>7) Баг репорт.</summary>
+<br>
+http://www.protesting.ru/testing/testtypes.html
+Summary
+Version
+Severity
+Priority
+Assigned To
+Steps to Reproduce
+Actual Result
+Expected Result
+Attachment
 </details>
 
