@@ -7,6 +7,7 @@
 <details>
 <summary>2) Структура тест плана.</summary>
 <br>
+http://www.protesting.ru/testing/plan.html
 1. Що необхідно протестувати?
 
 
