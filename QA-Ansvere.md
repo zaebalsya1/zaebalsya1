@@ -48,6 +48,7 @@ PostConditions
 <details>
 <summary>5) Типы тестирования.</summary>
 <br>
+<img src="[https://imgur.com/V41DIUF.png](https://i0.wp.com/testengineer.ru/wp-content/uploads/2023/02/Software-Testing-Types.jpg?resize=696%2C403&ssl=1)" />
 http://www.protesting.ru/testing/testtypes.html
 </details>
 
