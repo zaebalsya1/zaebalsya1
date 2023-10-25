@@ -1,7 +1,8 @@
 <details>
 <summary>1) Поясни призначення та синтаксис об’єктів у JavaScript</summary>
 <br>
-![Alt text](image-1.png)
+<img src="image/image.png" />
+
 </details>
 
 <details>
